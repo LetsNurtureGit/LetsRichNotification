@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LetsNotificationsSDK/LetsTextNotification.swift"
+            timestampString = "556874747.9506249"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "viewDidLayoutSubviews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LetsNotificationsSDK/LetsTextNotification.swift"
+            timestampString = "556874747.950713"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "playerItemDidReachEnd(notification:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LetsNotificationsSDK/LetsTextNotification.swift"
+            timestampString = "556874747.950804"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "playerItemDidReachEnd(notification:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LetsNotificationsSDK.LetsTextNotification.playerItemDidReachEnd(notification: Foundation.Notification) -&gt; ()"
+                  moduleName = "LetsNotificationsSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/letsnurture/Desktop/LetsNotificationsSDK/LetsNotificationsSDK/LetsNotificationsSDK/LetsTextNotification.swift"
+                  timestampString = "556636630.4277821"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in LetsNotificationsSDK.LetsTextNotification.playerItemDidReachEnd(notification: Foundation.Notification) -&gt; ()"
+                  moduleName = "LetsNotificationsSDK"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/letsnurture/Desktop/LetsNotificationsSDK/LetsNotificationsSDK/LetsNotificationsSDK/LetsTextNotification.swift"
+                  timestampString = "556636630.43049"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
